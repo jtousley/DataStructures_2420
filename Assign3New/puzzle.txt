@@ -1,0 +1,66 @@
+Puzzle Solved by A* Search Algorithm!
+Original Board:
+1 5 2 
+7 3 6 
+8 4 9 
+State 5 to =>South Col1
+1 4 2 
+7 5 6 
+8 3 9 
+State 27 to =>West Row0
+4 2 1 
+7 5 6 
+8 3 9 
+State 301 to =>South Col0
+8 2 1 
+4 5 6 
+7 3 9 
+State 677 to =>South Col1
+8 3 1 
+4 2 6 
+7 5 9 
+State 9878 to =>East Row0
+1 8 3 
+4 2 6 
+7 5 9 
+State 49732 to =>North Col1
+1 2 3 
+4 5 6 
+7 8 9 
+
+Total moves: 6
+
+
+Puzzle Solved by brute force!
+Original Board:
+1 5 2 
+7 3 6 
+8 4 9 
+State 5 to =>South Col1
+1 4 2 
+7 5 6 
+8 3 9 
+State 75 to =>West Row0
+4 2 1 
+7 5 6 
+8 3 9 
+State 913 to =>South Col0
+8 2 1 
+4 5 6 
+7 3 9 
+State 10973 to =>South Col1
+8 3 1 
+4 2 6 
+7 5 9 
+State 131690 to =>East Row0
+1 8 3 
+4 2 6 
+7 5 9 
+State 1580296 to =>North Col1
+1 2 3 
+4 5 6 
+7 8 9 
+
+Total moves: 6
+
+

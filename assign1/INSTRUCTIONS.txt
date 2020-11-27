@@ -1,0 +1,14 @@
+Linux:
+Type "make" and output will be displayed to text file "puzzle.txt".
+
+Windows:
+This program will presumably work on Visual Studios, if you want to take the time to load all six files into a new project. I recommend Linux.
+
+Tip:
+If you don't want to sort through hundreds of thousands of lines of code, rewrite lines 56 and 57 so they do not 'cout'.
+
+
+Questions?
+Email me at j.tousley@live.com
+
+Thanks and enjoy!
